@@ -8,7 +8,7 @@
 
 4. 完整的机器人视觉slam的VO
 
-5. docker使用
+  5. docker使用
 
  
 学习任务：
